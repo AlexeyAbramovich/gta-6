@@ -1,5 +1,6 @@
 # Functionality
 - Form for making preorder gta 6
+- Form data is saving in PostgreSQL database
 
 # Used technologies
 -  React
